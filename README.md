@@ -15,6 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📚 ALGORITMOS & MÉTODOS
 - Estrutura de Operações 
 - Operadores Lógicos
+- Operadores de Repetição 
 - Variáveis 
 - Lógica de Programação
 
