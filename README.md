@@ -9,15 +9,21 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚙ BACK-END & LÓGICA 
-- Ruby 
+- Ruby
+- DQL
 - Git & Github
 
 ## 📚 ALGORITMOS & MÉTODOS
-- Estrutura de Operações 
-- Operadores Lógicos
-- Operadores de Repetição 
-- Variáveis 
+- Estrutura de Dados
+- Matriz
+- Conjunto 
 - Lógica de Programação
+- Algoritmo de Busca
+- Algoritmo de Ordenação
+- Classes e Métodos em Python
+- Aplicação de Banco de Dados
+- Métodos de Bibliotecas
+- P.O.O
 
 <br>
 
