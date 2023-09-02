@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚙ BACK-END & LÓGICA 
 - Ruby
-- DQL
+- SQL
 - Git & Github
 
 ## 📚 ALGORITMOS & MÉTODOS
