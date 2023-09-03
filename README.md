@@ -1,33 +1,37 @@
-<h1 align="center">Estudos com Ruby </h1>
 
-<p align="center" style="font-weight: 100; color: #F2F2F2">Repositório destinado a estudos com a linguagem de Progamação <strong>Ruby</strong></p>
+<h1 align="center">Estudos com Ruby</h1>
+
+<p align="center">
+  <em>Repositório dedicado aos estudos da linguagem de programação <strong>Ruby</strong></em>
+</p>
 
 <br>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-## ⚙ BACK-END & LÓGICA 
+### ⚙ BACK-END & LÓGICA
 - Ruby
 - SQL
 - Git & Github
 
-## 📚 ALGORITMOS & MÉTODOS
+### 📚 ALGORITMOS & MÉTODOS
 - Estrutura de Dados
 - Matriz
-- Conjunto 
+- Conjunto
 - Lógica de Programação
 - Algoritmo de Busca
 - Algoritmo de Ordenação
-- Classes e Métodos em Python
+- Classes e Métodos em Ruby
 - Aplicação de Banco de Dados
 - Métodos de Bibliotecas
-- P.O.O
+- Programação Orientada a Objetos (POO)
 
 <br>
 
 ## 💻 Projeto
 
-<p style="font-weight: 100; color: #F2F2F2">O intuito desse repositório é treinar os conhecimentos técnico em programação com a linguagem <strong style="font-weight: 100;"><span style="color: #1AA;">Ruby</span> abrangendo os conhecimentos em <strong style="font-weight: 400;">Lógica & Programação</strong></p>
-
+<p>
+  O objetivo deste repositório é aprimorar conhecimentos técnicos em programação utilizando a linguagem <strong>Ruby</strong>, abrangendo os aspectos de <strong>Lógica & Programação</strong>.
+</p>
